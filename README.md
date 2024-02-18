@@ -44,7 +44,7 @@ Ce système est conçu à des fins de démonstration et d'apprentissage. Assurez
 
 ## Ressources Additionnelles
 
-Pour voir une démonstration de ce système, consultez ma [chaîne YouTube](https://www.youtube.com/channel/UC_HY469jR9yzyXJq24QJY1g).
+Pour voir une démonstration de ce système, consultez ma [chaîne YouTube](https://www.youtube.com/@VIDO-bv3ko).
 
 ---
 
